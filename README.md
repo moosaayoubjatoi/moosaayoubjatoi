@@ -31,4 +31,4 @@ _Portfolio projects coming soon: end-to-end data pipelines with Python, SQL, Azu
 English (fluent) · German (A2, learning toward B1)
 
 ---
-📫 Reach me via [GitHub](https://github.com/moosaayoubjatoi) or LinkedIn (link coming soon).
+📫 Reach me via [GitHub](https://github.com/moosaayoubjatoi) or [LinkedIn](https://www.linkedin.com/in/muhammad-moosa-jatoi-4507b81b3/).
