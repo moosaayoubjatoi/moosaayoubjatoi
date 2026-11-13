@@ -25,7 +25,9 @@ I build data pipelines with **Python, SQL, Azure Data Factory and Databricks**. 
 - **BE Telecommunication Engineering**, Mehran University of Engineering & Technology, Pakistan
 
 ### 📂 Projects
-_Portfolio projects coming soon: end-to-end data pipelines with Python, SQL, Azure Data Factory and Databricks._
+**[Autobahn Traffic Pipeline](https://github.com/moosaayoubjatoi/autobahn-traffic-pipeline)**: batch ELT pipeline that collects roadworks, closures and traffic warnings on the autobahns around Ostwestfalen-Lippe every 3 hours. Python, DuckDB, dbt (12 data tests), Streamlit dashboard, scheduled with GitHub Actions.
+
+_Next: an Azure Data Factory + Databricks lakehouse project._
 
 ### 🌍 Languages
 English (fluent) · German (A2, learning toward B1)
