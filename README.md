@@ -18,7 +18,6 @@ I build data pipelines with **Python, SQL, Azure Data Factory and Databricks**. 
 
 ### 💼 Experience
 - **Junior Software Developer**, Sapphire Consulting (≈1 year)
-- **Student Developer / Research Associate**
 - **Internships:** OCLITS, PTCL
 
 ### 🎓 Education
@@ -29,7 +28,7 @@ I build data pipelines with **Python, SQL, Azure Data Factory and Databricks**. 
 _Portfolio projects coming soon: end-to-end data pipelines with Python, SQL, Azure Data Factory and Databricks._
 
 ### 🌍 Languages
-English (fluent) · German (A2, learning toward B1) · Urdu (native)
+English (fluent) · German (A2, learning toward B1)
 
 ---
 📫 Reach me via [GitHub](https://github.com/moosaayoubjatoi) or LinkedIn (link coming soon).
