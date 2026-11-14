@@ -30,7 +30,7 @@ I build data pipelines with **Python, SQL, Azure Data Factory and Databricks**. 
 _Next: an Azure Data Factory + Databricks lakehouse project._
 
 ### 🌍 Languages
-English (fluent) · German (A2, learning toward B1)
+English (fluent) · German (A2, currently learning)
 
 ---
 📫 Reach me via [GitHub](https://github.com/moosaayoubjatoi) or [LinkedIn](https://www.linkedin.com/in/muhammad-moosa-jatoi-4507b81b3/).
